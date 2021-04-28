@@ -4,5 +4,7 @@ Version: 1.0
 Author: Daniel Nunan
 */
 
+@import url("https://use.typekit.net/opa5mnq.css");
+
 * { font-family: museo-sans !important; 
   font-weight: 300; } 
